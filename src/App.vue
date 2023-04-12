@@ -7,7 +7,7 @@ export default {
 </script>
 
 <template>
-  <h1>HELLLO VUE</h1>
+  <h1>HELLO VUE</h1>
 </template>
 
 <style></style>
