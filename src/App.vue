@@ -1,13 +1,17 @@
 <script>
 export default {
   data() {
-    return {};
+    return {
+      message: "Hello Vue!",
+    };
   },
 };
 </script>
 
 <template>
-  <h1>HELLO VUE</h1>
+  <h1>
+    {{ message }}
+  </h1>
 </template>
 
 <style></style>
